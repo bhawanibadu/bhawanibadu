@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Bhawani%20Datt%20Badu&fontSize=70&fontColor=00BFFF&desc=Frontend%20Engineer%20|%20Bilingual%20Tech%20Professional&descSize=20&descAlignY=70" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=45&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=BHAWANI+DATT+BADU;FRONTEND+ENGINEER;TRILINGUAL+DEVELOPER" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&reversal=false&animation=fadeIn" />
 </p>
 
 ### 📜 Professional Summary
